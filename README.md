@@ -1,3 +1,13 @@
+  <img height="50" src="../../blob/main/img/lockup.svg" />
+<p align="center">
+  <img height="100" src="../../blob/main/img/logo-wordmark.png" />
+  <img height="100" src="../../blob/main/img/react.svg" />
+  <img height="100" src="../../blob/main/img/client.png" />
+
+</p>
+
+
+
 # ReactNative_01
 Primeros Pasos en React-Native
 
