@@ -20,7 +20,10 @@ Primeros Pasos en React-Native
 
 #### Tip:
 
-    npx create-expo-app my-app
+    npm install -g expo-cli
+    npx create-expo-app --template
+    Seleccionaremos --Blank
+    y le damos un nombre a nuestra APP
 
 ### 2. Genymotion https://www.genymotion.com/download/
 
@@ -44,3 +47,4 @@ Primeros Pasos en React-Native
 #### Tip:
 
     npm start
+    Press a │ open Android
