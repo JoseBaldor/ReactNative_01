@@ -41,6 +41,9 @@ Primeros Pasos en React-Native
           -   `C:\Users\Lenovo\AppData\Local\Android\Sdk`
     - `Variables de Usuario: PATH`
       -    `%ANDROID_HOME%\platform-tools`
+      -    `%ANDROID_HOME%\tools`
+      -    `%ANDRIOD_HOME%\emulator`
+      -    `%ANDROID_HOME%\tools\bin`
      
 ### 4. ¿Cómo ejecutar mi APP?
 
